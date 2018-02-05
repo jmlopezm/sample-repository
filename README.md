@@ -1,2 +1,2 @@
 # sample-repository
-prueba curso git
+Sample project GitHub repository
